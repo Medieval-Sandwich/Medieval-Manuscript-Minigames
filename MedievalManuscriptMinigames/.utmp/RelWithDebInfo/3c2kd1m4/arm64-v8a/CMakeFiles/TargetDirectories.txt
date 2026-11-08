@@ -1,0 +1,8 @@
+/Users/jon/Unity Projects/Fall2026_2D_MobileGame/.utmp/RelWithDebInfo/3c2kd1m4/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jon/Unity Projects/Fall2026_2D_MobileGame/.utmp/RelWithDebInfo/3c2kd1m4/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jon/Unity Projects/Fall2026_2D_MobileGame/.utmp/RelWithDebInfo/3c2kd1m4/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/jon/Unity Projects/Fall2026_2D_MobileGame/.utmp/RelWithDebInfo/3c2kd1m4/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/jon/Unity Projects/Fall2026_2D_MobileGame/.utmp/RelWithDebInfo/3c2kd1m4/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/jon/Unity Projects/Fall2026_2D_MobileGame/.utmp/RelWithDebInfo/3c2kd1m4/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/jon/Unity Projects/Fall2026_2D_MobileGame/.utmp/RelWithDebInfo/3c2kd1m4/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/jon/Unity Projects/Fall2026_2D_MobileGame/.utmp/RelWithDebInfo/3c2kd1m4/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
